@@ -1,5 +1,5 @@
 # cande1807
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Candela 👋</h1>
 <p align="center"><i> Lic. en ciencia de datos· Rosario</i></p>
 
 ---
